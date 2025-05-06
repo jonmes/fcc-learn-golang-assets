@@ -24,7 +24,5 @@ func main() {
 		fmt.Println(insufficientFundMessage)
 	}
 
-	// don't edit below this line
-
 	fmt.Println("Account balance:", accountBalance)
 }
